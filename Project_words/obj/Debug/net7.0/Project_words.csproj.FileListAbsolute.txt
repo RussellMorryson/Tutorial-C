@@ -1,0 +1,15 @@
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.csproj.AssemblyReference.cache
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.AssemblyInfoInputs.cache
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.AssemblyInfo.cs
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.csproj.CoreCompileInputs.cache
+/workspaces/Tutorial-C/Project_words/bin/Debug/net7.0/Project_words
+/workspaces/Tutorial-C/Project_words/bin/Debug/net7.0/Project_words.deps.json
+/workspaces/Tutorial-C/Project_words/bin/Debug/net7.0/Project_words.runtimeconfig.json
+/workspaces/Tutorial-C/Project_words/bin/Debug/net7.0/Project_words.dll
+/workspaces/Tutorial-C/Project_words/bin/Debug/net7.0/Project_words.pdb
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.dll
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/refint/Project_words.dll
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.pdb
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/Project_words.genruntimeconfig.cache
+/workspaces/Tutorial-C/Project_words/obj/Debug/net7.0/ref/Project_words.dll
