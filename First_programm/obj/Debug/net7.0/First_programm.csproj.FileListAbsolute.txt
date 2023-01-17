@@ -1,0 +1,5 @@
+/workspaces/Tutorial-C/First_programm/obj/Debug/net7.0/First_programm.csproj.AssemblyReference.cache
+/workspaces/Tutorial-C/First_programm/obj/Debug/net7.0/First_programm.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tutorial-C/First_programm/obj/Debug/net7.0/First_programm.AssemblyInfoInputs.cache
+/workspaces/Tutorial-C/First_programm/obj/Debug/net7.0/First_programm.AssemblyInfo.cs
+/workspaces/Tutorial-C/First_programm/obj/Debug/net7.0/First_programm.csproj.CoreCompileInputs.cache
