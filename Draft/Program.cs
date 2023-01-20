@@ -1,4 +1,4 @@
-﻿string s1 = "The quick brown fox jumps over the lazy dog";
+﻿/*string s1 = "The quick brown fox jumps over the lazy dog";
 string s2 = "fox";
 bool b = s1.Contains(s2);
 Console.WriteLine("'{0}' is in the string '{1}': {2}",
@@ -11,4 +11,4 @@ if (b) {
 }
 // This example displays the following output:
 //    'fox' is in the string 'The quick brown fox jumps over the lazy dog': True
-//    'fox begins at character position 17
+//    'fox begins at character position 17*/
